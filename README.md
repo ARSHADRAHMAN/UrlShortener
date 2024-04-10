@@ -14,3 +14,5 @@ In app folder --> setting -->installed app --> add your app name i.e urlshort
 1. cd ./src
 2. python mange.py makemigrations
 3. python mange.py migrations
+
+can be useful video for rest framework: https://www.youtube.com/watch?v=t-uAgI-AUxc
