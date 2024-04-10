@@ -16,4 +16,4 @@ In app folder --> setting -->installed app --> add your app name i.e urlshort
 3. python mange.py migrations
 
 can be useful video for rest framework: https://www.youtube.com/watch?v=t-uAgI-AUxc
-.python3 -m django startproject mysite 
+1. python3 -m django startproject mysite 
