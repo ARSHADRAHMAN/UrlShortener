@@ -10,6 +10,7 @@ Url shortner project:
 
 In app folder --> setting -->installed app --> add your app name i.e urlshort
 
-cd ./src
-python mange.py makemigrations
-python mange.py migrations
+
+1. cd ./src
+2. python mange.py makemigrations
+3. python mange.py migrations
